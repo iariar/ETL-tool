@@ -1,4 +1,4 @@
-# Getting Started ETL tool
+ETL tool
 
 To start this app you should: 
     - Go into the cloned repository
